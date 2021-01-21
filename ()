@@ -1,0 +1,15 @@
+
+# Your branch is ahead of 'origin/master' by 1 commit.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	new file:   blog/forms.py
+#	new file:   blog/static/css/blog.css
+#	new file:   blog/templates/blog/base.html
+#	new file:   blog/templates/blog/post_detail.html
+#	new file:   blog/templates/blog/post_edit.html
+#	new file:   blog/templates/blog/post_list.html
+#	new file:   blog/urls.py
+#	modified:   blog/views.py
+#	modified:   mysite/urls.py
+#
